@@ -1,2 +1,3 @@
-# radboud-bachelor-thesis
-Explored the ethical implementation of AI in medicine with a focus on decision support systems (DSSs) in radiology. The aim was to evaluate both clinical benefits and broader societal risks that accompany DSSs, while bridging the gap between technical innovation and clinical utility.
+# Radboud University: Final Project / BSc Thesis
+##  Decision Support Systems for Radiology - Ethical Safeguards in AI-Assisted Diagnosis
+Explored the ethical implementation of AI in medicine with a focus on decision support systems in radiology. It examined a hypothetical case study through a structured risk assessment and connected the findings to the requirements of the EU AI Act. Based on this analysis, a design recommendation report was developed to outline the technical and institutional safeguards needed to support responsible use of the decision support system. The aim of the thesis was to evaluate both the clinical benefits and the broader societal risks that accompany such technology, while bridging the gap between technical innovation and clinical utility, and contributing to a more thoughtful and informed adoption of AI in medical settings.
